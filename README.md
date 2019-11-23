@@ -6,8 +6,8 @@
 
 * Docker
   * Verified with: Version 18.06.0-ce-mac70
-* Node v8.11.x
-* Yarn v1.9.x
+* Node v8.x.x
+* Yarn v1.x.x
 
 ## Development
 

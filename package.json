@@ -1,6 +1,6 @@
 {
   "name": "gas-kinlog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A GAS to post your Kindle books to booklog.jp",
   "main": "dist/kinlog.gs.js",
   "scripts": {
@@ -19,7 +19,6 @@
     "prestart": "yarn install",
     "start": "npm-run-all test watch"
   },
-  "repository": "git+ssh://git@github.com/ymkjp/mlit-mm-slack-gas.git",
   "keywords": [
     "google-apps-script",
     "mlit",

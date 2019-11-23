@@ -69,6 +69,7 @@ const auth = (username, password) => {
     method: 'post',
     followRedirects: false,
     payload: {
+      'service': 'booklog',
       'account': username,
       'password': password
     }
