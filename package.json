@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "amazon-product-api": "^0.4.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.2",
     "config": "^2.0.1",
     "debug": "^4.0.1",
